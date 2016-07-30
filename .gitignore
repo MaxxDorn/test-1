@@ -1,2 +1,6 @@
-*.css
+.sass-cache
+.idea
+node_modules
+[Dd]ev
 css
+*.css
